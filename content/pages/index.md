@@ -107,6 +107,14 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /test
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
