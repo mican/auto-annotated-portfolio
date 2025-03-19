@@ -108,7 +108,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Learn more
+        label: Learn more asdf
         altText: ''
         url: /test
         showIcon: false
