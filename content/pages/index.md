@@ -99,7 +99,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Try it now!
         altText: ''
         url: /
         showIcon: true
